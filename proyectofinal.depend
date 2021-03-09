@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1564017319 source:c:\users\chico\desktop\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"submenues.h"
+	"clases.h"
+
+1564017315 c:\users\chico\desktop\proyectofinal\submenues.h
+	"clases.h"
+
+1564017452 c:\users\chico\desktop\proyectofinal\clases.h
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
+1564006770 c:\users\chico\desktop\proyectofinal\disponibles.h
+	"clases.h"
+	"submenues.h"
+
+1560389321 source:c:\users\chico\downloads\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"submenues.h"
+	"clases.h"
+	"disponibles.h"
+	"funciones.h"
+
+1560388992 c:\users\chico\downloads\proyectofinal\submenues.h
+	"clases.h"
+	"disponibles.h"
+
+1560389392 c:\users\chico\downloads\proyectofinal\clases.h
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
+1560388751 c:\users\chico\downloads\proyectofinal\disponibles.h
+	"clases.h"
+	"submenues.h"
+	"funciones.h"
+
+1560388007 c:\users\chico\downloads\proyectofinal\funciones.h
+	"clases.h"
+
+1561597441 c:\users\chico\desktop\proyectofinal\funciones.h
+
+1561611020 c:\users\chico\desktop\proyectofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1575399565 source:c:\users\chico\documents\utn\finalabo2\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"submenues.h"
+	"clases.h"
+
+1575398373 c:\users\chico\documents\utn\finalabo2\proyectofinal\submenues.h
+	"Obra.h"
+	"Cliente.h"
+	"Venta.h"
+	"ObraNegocio.h"
+	"ClienteNegocio.h"
+	"VentaNegocio.h"
+
+1575342016 c:\users\chico\documents\utn\finalabo2\proyectofinal\clases.h
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
+1575341612 c:\users\chico\documents\utn\finalabo2\proyectofinal\include\obra.h
+
+1575392989 c:\users\chico\documents\utn\finalabo2\proyectofinal\include\cliente.h
+
+1575406703 c:\users\chico\documents\utn\finalabo2\proyectofinal\include\venta.h
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1575407891 c:\users\chico\documents\utn\finalabo2\proyectofinal\obranegocio.h
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"Obra.h"
+	"VentaNegocio.h"
+
+1575403042 c:\users\chico\documents\utn\finalabo2\proyectofinal\clientenegocio.h
+
+1575407891 c:\users\chico\documents\utn\finalabo2\proyectofinal\ventanegocio.h
+	"ClienteNegocio.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1576713497 source:c:\users\chico\desktop\finalabo2\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"submenues.h"
+
+1576716302 c:\users\chico\desktop\finalabo2\proyectofinal\submenues.h
+	"Obra.h"
+	"Cliente.h"
+	"Venta.h"
+	"Autor.h"
+	"ObraNegocio.h"
+	"ClienteNegocio.h"
+	"VentaNegocio.h"
+	"AutorNegocio.h"
+
+1575341612 c:\users\chico\desktop\finalabo2\proyectofinal\include\obra.h
+
+1575392989 c:\users\chico\desktop\finalabo2\proyectofinal\include\cliente.h
+
+1576710471 c:\users\chico\desktop\finalabo2\proyectofinal\include\venta.h
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1576716562 c:\users\chico\desktop\finalabo2\proyectofinal\obranegocio.h
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"Obra.h"
+	"VentaNegocio.h"
+	"Autor.h"
+	"AutorNegocio.h"
+
+1576716059 c:\users\chico\desktop\finalabo2\proyectofinal\ventanegocio.h
+	"ClienteNegocio.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1576712683 c:\users\chico\desktop\finalabo2\proyectofinal\clientenegocio.h
+
+1575342016 c:\users\chico\desktop\finalabo2\proyectofinal\clases.h
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
+1576714171 c:\users\chico\desktop\finalabo2\proyectofinal\autor.h
+
+1576716059 c:\users\chico\desktop\finalabo2\proyectofinal\autornegocio.h
+
+1576713497 source:c:\users\chico\desktop\final labo 2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"submenues.h"
+
+1576716302 c:\users\chico\desktop\final labo 2\submenues.h
+	"Obra.h"
+	"Cliente.h"
+	"Venta.h"
+	"Autor.h"
+	"ObraNegocio.h"
+	"ClienteNegocio.h"
+	"VentaNegocio.h"
+	"AutorNegocio.h"
+
+1575341612 c:\users\chico\desktop\final labo 2\include\obra.h
+
+1575392989 c:\users\chico\desktop\final labo 2\include\cliente.h
+
+1576710471 c:\users\chico\desktop\final labo 2\include\venta.h
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1576714171 c:\users\chico\desktop\final labo 2\autor.h
+
+1576716562 c:\users\chico\desktop\final labo 2\obranegocio.h
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"Obra.h"
+	"VentaNegocio.h"
+	"Autor.h"
+	"AutorNegocio.h"
+
+1576716059 c:\users\chico\desktop\final labo 2\ventanegocio.h
+	"ClienteNegocio.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1576712683 c:\users\chico\desktop\final labo 2\clientenegocio.h
+
+1576716059 c:\users\chico\desktop\final labo 2\autornegocio.h
+
